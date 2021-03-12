@@ -16,7 +16,7 @@
 ### 拉取镜像
 
 ```
-docker pull [jefferyjob/node-hexo]
+docker pull jefferyjob/node-hexo
 ```
 
 ### 部署
