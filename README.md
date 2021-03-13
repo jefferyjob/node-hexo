@@ -2,13 +2,8 @@
 
 ### 镜像功能
 
-> 此 Dockerfile 用于管理 hexo 项目  
-> hexo 项目静态文件生成和发布  
-> 该镜像已经发布至 DockerHub ，可直接拉取使用  
-
-### DockerHub
-
-https://hub.docker.com/r/jefferyjob/node-hexo
+- 基于 nodejs 的 hexo 管理工具
+- hexo 项目静态文件生成和发布  
 
 ### 镜像基础环境
 
@@ -38,4 +33,4 @@ docker exec -it [container_name] /bin/bash
 
 ### License
 
-遵循 MIT 许可证。有关详细，请参阅 [LICENSE](https://github.com/mailjobblog/mailjobblog.github.io/blob/main/LICENSE)。
+遵循 MIT 许可证。有关详细，请参阅 [LICENSE](https://github.com/jefferyjob/node-hexo/blob/master/LICENSE)。
