@@ -21,13 +21,13 @@ docker pull jefferyjob/node-hexo
 ### 部署
 
 ```
-docker run -itd [images_name] --name [container_name] [jefferyjob/node-hexo]
+docker run -itd -p 4000:4000 --name  [container_name] [images_id]
 ```
 
 ### 使用
 
 ```
-docker exec -it [container_name] /bin/bash
+docker exec -it [container_name] /bin/sh
 ```
 
 
