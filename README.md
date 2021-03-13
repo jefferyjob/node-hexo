@@ -10,7 +10,8 @@
 - alpine
 - nodejs
 - npm
-- git
+- hexo
+- git  
 
 ### 拉取镜像
 
