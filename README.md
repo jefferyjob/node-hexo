@@ -6,6 +6,10 @@
 > hexo 项目静态文件生成和发布  
 > 该镜像已经发布至 DockerHub ，可直接拉取使用  
 
+### DockerHub
+
+https://hub.docker.com/r/jefferyjob/node-hexo
+
 ### 镜像基础环境
 
 - alpine
